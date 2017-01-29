@@ -3,4 +3,4 @@ Document which serve people who starting to learn Node JS and Postgres for devel
 
 | Name | Link | Mode |
 | ---------- | -------  | ---------------- |
-| Postgres Guide | postgres beginners guide(http://www.postgresguide.com/) | Beginner |
+| Postgres Guide | [postgres beginners guide](http://www.postgresguide.com/) | Beginner |
